@@ -7,6 +7,5 @@ image: /assets/images/satellite.jpg
 ---
 
 In my System Dynamics class, MAE 3260, me and a group of 3 other students studied and analyzed how satellites work. More specfically, we focussed on attitude control and presicion pointing. 
-
-
+ 
 Click <a href="{{ "/assets/SystemsGroupProject.pdf" | relative_url }}">here</a> for my final project write-up.

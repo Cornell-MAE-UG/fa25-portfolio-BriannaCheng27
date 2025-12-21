@@ -3,7 +3,7 @@ layout: project
 title: Fluid Mechanics Dissection 
 description: Fluid mechcnial anlyais of an accorion
 technologies: [Fusion 360]
-image: /assets/images/function-graph.png
+image: /assets/images/accordion_dissection.png
 ---
 
 

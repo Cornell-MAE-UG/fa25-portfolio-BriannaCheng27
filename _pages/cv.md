@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my Resume]({{ "/assets/Brianna Cheng Resume MechE.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [bc539@cornell.edu](mailto:bc539@cornell.edu) | | | **Phone:** +917-968-2350

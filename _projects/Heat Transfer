@@ -10,4 +10,4 @@ The homework assignment I found most valuable was Problem 1, which focused on he
 
 One part that stood out to me was when we analyzed the full fin array and then compared the heater temperature with and without the heat sink. This made it clear how much adding fins can improve heat dissipation by increasing the surface area for convection. Before doing this problem, I understood the idea of fins in theory, but this assignment helped me see quantitatively how they reduce temperature in a real system. I think this will be useful in the future because many engineering systems rely on heat sinks or similar cooling methods, and being able to model them with thermal resistance networks and fin analysis will help when designing or evaluating thermal management solutions.
  
-Click <a href="{{ "/assets/SystemsGroupProject.pdf" | relative_url }}">here</a> for my final project write-up.
+Click <a href="{{ "/assets/HT_Hw5.pdf" | relative_url }}">here</a> for my final project write-up.

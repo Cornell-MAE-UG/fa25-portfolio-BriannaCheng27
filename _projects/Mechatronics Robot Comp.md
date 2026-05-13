@@ -2,13 +2,13 @@
 layout: project
 title: Robot Competiton 
 description: Built a Robot for Mechatronics class
-technologies: [Lasercutting and 3D Printing]
+technologies: [Arduino Uno, Embedded C/Arduino programming, DC motors, Micro Servos, laser-cut gears, 3D-printed mounts, CAD modeling, Prototyping, Mechanical Assembly.]
 image: /assets/images/Robo.jpg
 ---
 
 
-In 2021, NASA asked me to design a spaceship...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+For this MAE 3780 final project, our team designed and built an Arduino-powered competition robot focused on speed, early block collection, and defensive positioning. Instead of relying on sensors, we prioritized a simple and reliable mechanical strategy: reach the center of the arena quickly, collect as many blocks as possible at the start of the match, and then hold a strong position while the opposing robot continued searching for blocks. To improve speed, we implemented a 3:1 gear train and used larger wheels to cover more distance in less time. The robot also included servo-deployed cardboard arms that expanded outward after the match began, increasing the collection area while staying within the required starting dimensions.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+The robot’s control system was hard-coded using an Arduino Uno and direct motor commands. Its programmed path sent the robot forward, deployed the arms, randomly turned left or right, drove across the board, and then repositioned toward our side of the arena. Mechanically, the project involved laser-cut gears, custom 3D-printed gear mounts, servo-actuated arms, and a cardboard collection structure. Although the robot faced challenges with gear alignment, adhesive strength, and arm attachment, the final design successfully executed the intended strategy during competition. The robot finished with a record of 4 wins, 2 losses, and 1 tie, advancing to the round of 16
 
 Click <a href="{{ "/assets/MAE3780FinalReport.pdf" | relative_url }}">here</a> for my final project write-up.

@@ -1,9 +1,9 @@
 ---
 layout: project
-title: Spaceship 
-description: Just a spaceship that I designed
-technologies: [SolidWorks, Machining]
-image: /assets/images/spaceship-design.jpg
+title: Robot Competiton 
+description: Built a Robot for Mechatronics class
+technologies: [Lasercutting and 3D Printing]
+image: /assets/images/Robo.jpg
 ---
 
 
